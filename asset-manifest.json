@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HotelCheck/static/css/main.d8ab9bab.css",
-    "main.js": "/HotelCheck/static/js/main.c9d0c7dd.js",
+    "main.js": "/HotelCheck/static/js/main.0e718974.js",
     "static/media/loginBackground.png": "/HotelCheck/static/media/loginBackground.53a28adeb7721ccf3ba5.png",
     "static/media/img1.jpg": "/HotelCheck/static/media/img1.b43f90a758042aecc202.jpg",
     "static/media/img5.jpg": "/HotelCheck/static/media/img5.d9c7920aa1621a812e72.jpg",
@@ -13,10 +13,10 @@
     "index.html": "/HotelCheck/index.html",
     "static/media/arrow.svg": "/HotelCheck/static/media/arrow.ecfc16f7a5f0685dc81942c312c3f763.svg",
     "main.d8ab9bab.css.map": "/HotelCheck/static/css/main.d8ab9bab.css.map",
-    "main.c9d0c7dd.js.map": "/HotelCheck/static/js/main.c9d0c7dd.js.map"
+    "main.0e718974.js.map": "/HotelCheck/static/js/main.0e718974.js.map"
   },
   "entrypoints": [
     "static/css/main.d8ab9bab.css",
-    "static/js/main.c9d0c7dd.js"
+    "static/js/main.0e718974.js"
   ]
 }
