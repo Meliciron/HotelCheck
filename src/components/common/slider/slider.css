@@ -1,0 +1,16 @@
+.slider {
+  display: flex;
+}
+
+.slider-slide {
+  width: fit-content;
+  height: fit-content;
+}
+
+.swiper-wrapper {
+  display: flex;
+}
+
+.swiper-slide {
+  width: fit-content;
+}

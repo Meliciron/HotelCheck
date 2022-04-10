@@ -1,0 +1,33 @@
+.favorites__title-wrapper {
+  margin-bottom: 32px;
+}
+
+.favorites__sort-btns-container {
+  display: flex;
+  margin-bottom: 32px;
+}
+
+.favorites__sort-btn-wrapper {
+  margin-right: 8px;
+}
+
+.favorites__content {
+  max-height: 288px;
+  overflow-y: scroll;
+}
+
+.favorites__content .hotel-row__wrapper:last-child {
+  border: none;
+}
+
+.favorites__content::-webkit-scrollbar {
+  width: 0px;
+}
+
+.favorites__content::-webkit-scrollbar-track {
+  border-radius: 0px;
+}
+
+.favorites__content::-webkit-scrollbar-thumb {
+  border-radius: 0px;
+}

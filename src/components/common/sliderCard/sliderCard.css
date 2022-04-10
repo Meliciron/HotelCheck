@@ -1,0 +1,13 @@
+.slider-card {
+  width: 164px;
+  height: 149px;
+  background-color: bisque;
+  border-radius: 10px;
+}
+
+.slider-card img {
+  width: inherit;
+  height: inherit;
+  border-radius: inherit;
+  object-fit: cover;
+}

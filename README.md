@@ -1,0 +1,1 @@
+# Application for seraching hotels

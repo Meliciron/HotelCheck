@@ -1,0 +1,90 @@
+.hotel-row__wrapper {
+  width: 100%;
+  padding: 16px 0;
+  border-bottom: 1px solid rgba(135, 135, 135, 0.2);
+  position: relative;
+  color: #878787;
+  display: flex;
+}
+
+.hotel-row__title {
+  font-size: 17px;
+  line-height: 22px;
+  font-weight: 300;
+  color: #424242;
+  margin-bottom: 4px;
+}
+
+.hotel-row__flex-item {
+  max-width: 80%;
+}
+
+.hotel-row__fav-icon-wrapper {
+  position: absolute;
+  top: 16px;
+  right: 0;
+}
+
+.hotel-row__fav-icon {
+  width: 21px;
+  height: 18px;
+}
+
+.hotel-row__duration {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+}
+
+.hotel-row__price {
+  font-weight: 300;
+  font-size: 11px;
+  line-height: 22px;
+  margin-right: 22px;
+}
+
+.hotel-row__cost {
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 22px;
+  color: #424242;
+}
+
+.hotel-row__star-rating-wrapper {
+  margin-top: 10px;
+}
+
+.hotel-row__price-wrapper {
+  position: absolute;
+  bottom: 19px;
+  right: 0;
+}
+
+.hotel-row__hotel-short-icon-wrapper {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  background: rgb(245, 246, 245);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 24px;
+}
+
+.hotel-row__hotel-short-icon {
+  width: 35px;
+  height: 35px;
+}
+
+.hotel-row__flex-item.hotel-row__flex-item_aligned {
+  display: flex;
+  align-items: center;
+}
+
+.hotel-row__wrapper.margins-reduced .hotel-row__title {
+  margin-bottom: 0;
+}
+
+.hotel-row__wrapper.margins-reduced .hotel-row__star-rating-wrapper {
+  margin-top: 5px;
+}

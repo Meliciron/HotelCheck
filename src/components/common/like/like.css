@@ -1,0 +1,22 @@
+.like {
+  width: 21px;
+  height: 18px;
+  cursor: pointer;
+  fill: #ffffff;
+  stroke: #c4c4c4;
+}
+
+.like:hover {
+  fill: #ebebeb;
+  stroke: #c4c4c4;
+}
+
+.like.like_active {
+  fill: #e55858;
+  stroke: none;
+}
+
+.like.like_active:hover {
+  fill: #e55858;
+  stroke: none;
+}
