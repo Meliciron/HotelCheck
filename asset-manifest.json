@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HotelCheck/static/css/main.d8ab9bab.css",
+    "main.js": "/HotelCheck/static/js/main.c9d0c7dd.js",
+    "static/media/loginBackground.png": "/HotelCheck/static/media/loginBackground.53a28adeb7721ccf3ba5.png",
+    "static/media/img1.jpg": "/HotelCheck/static/media/img1.b43f90a758042aecc202.jpg",
+    "static/media/img5.jpg": "/HotelCheck/static/media/img5.d9c7920aa1621a812e72.jpg",
+    "static/media/img3.jpg": "/HotelCheck/static/media/img3.b2f6d829e3302151552e.jpg",
+    "static/media/img4.jpg": "/HotelCheck/static/media/img4.391f2fabd99e136ec3fc.jpg",
+    "static/media/img2.jpg": "/HotelCheck/static/media/img2.dc91c985e598e2b78756.jpg",
+    "static/media/house.svg": "/HotelCheck/static/media/house.b41293b209b1df690b316cd006d584a3.svg",
+    "static/media/logout.svg": "/HotelCheck/static/media/logout.6541d62259e47627326550b1557c3866.svg",
+    "index.html": "/HotelCheck/index.html",
+    "static/media/arrow.svg": "/HotelCheck/static/media/arrow.ecfc16f7a5f0685dc81942c312c3f763.svg",
+    "main.d8ab9bab.css.map": "/HotelCheck/static/css/main.d8ab9bab.css.map",
+    "main.c9d0c7dd.js.map": "/HotelCheck/static/js/main.c9d0c7dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8ab9bab.css",
+    "static/js/main.c9d0c7dd.js"
+  ]
+}
